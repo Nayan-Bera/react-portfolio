@@ -14,7 +14,7 @@ const Contect = () => {
             <motion.p 
              whileInView={{opacity:1, x:0}}
              initial={{opacity:0, x:-100}}
-             transition={{duration:1}}
+             transition={{duration:0.7}}
 
             className=" my-4">{CONTACT.address}</motion.p>
             <motion.p
@@ -23,7 +23,18 @@ const Contect = () => {
              transition={{duration:1}}
 
             className=" my-4">{CONTACT.phoneNo}</motion.p>
+            <motion.div 
+            whileInView={{opacity:1, x:0}}
+            initial={{opacity:0, x:-100}}
+            transition={{duration:1.3}}
+             
+            className="my-4"
+            >
             <a href="#">{CONTACT.email}</a>
+            </motion.div>
+           
+            <h6 className=" mt-28 font- bg-gradient-to-r from-lime-800  via-25%
+            to-purple-900 bg-clip-text  tracking-tight text-transparent">@Copyright-2024--Nayan Kr Bera</h6>
         </div>
       
     </div>

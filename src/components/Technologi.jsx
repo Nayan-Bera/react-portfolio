@@ -38,13 +38,13 @@ const Technologi = () => {
         transition={{duration:1.5}}
         
         
-        className="flex flex-wrap items-center justify-center gap-4">
+        className="flex flex-wrap items-center justify-center gap-4 ">
             <motion.div
             variants={icon(1)}
             initial="initial"
             animate="animate"
             
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 p-4 border-transparent  shadow-sm shadow-gray-500">
             <FaReact className=" text-5xl text-cyan-400 "/>
             </motion.div>
 
@@ -53,7 +53,7 @@ const Technologi = () => {
              initial="initial"
              animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <FaNodeJs className=" text-5xl text-green-500 "/>
             </motion.div>
 
@@ -62,7 +62,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
             
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <SiMongodb  className=" text-5xl text-green-500 "/>
             </motion.div>
 
@@ -71,7 +71,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <AiOutlineHtml5  className=" text-5xl text-yellow-500 "/>
             </motion.div>
 
@@ -80,7 +80,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <DiCss3Full className=" text-5xl text-cyan-400 "/>
             </motion.div>
 
@@ -89,7 +89,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <SiPostman className=" text-5xl text-orange-600 "/>
             </motion.div>
 
@@ -98,7 +98,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <FaJava  className=" text-5xl text-orange-600 "/>
             </motion.div>
 
@@ -107,7 +107,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4 border-neutral-900 p-4 border-transparent  shadow-sm shadow-gray-500">
             <AiOutlinePython className=" text-5xl text-sky-600 "/>
             </motion.div>
 
@@ -116,7 +116,7 @@ const Technologi = () => {
             initial="initial"
             animate="animate"
 
-            className=" rounded-2xl border-4 border-neutral-900 p-4">
+            className=" rounded-3xl border-4  p-4 border-transparent  shadow-sm shadow-gray-500">
             <SiMysql className=" text-5xl  from text-green-300"/>
             </motion.div>
 

@@ -34,7 +34,7 @@ const Hero= () => {
 
             className=" bg-gradient-to-r from-green-300 via-slate-500
             to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent"
-            >Back End Devloper</motion.span>
+            >Back End Developer</motion.span>
             <motion.p
              
              variants={container(1)}

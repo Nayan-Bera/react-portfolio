@@ -21,7 +21,7 @@ transition={{duration:4.5}}
     
     className="m-8 flex items-center justify-between gap-4 text-2xl">
       <a href="https://x.com/NayanBe68620646" target="blank">  < RiTwitterXLine /></a>
-    <a href="https://www.linkedin.com/in/nayan-bera-b12034182/" target="blank"><FaLinkedin/></a>
+    <a href="https://www.linkedin.com/in/nayan-kr-bera" target="blank"><FaLinkedin/></a>
     <a href="https://github.com/Nayan-Bera" target="blank"><FaGithub /></a>
     <a href="https://www.instagram.com/_am_nayan_/?hl=en" target="blank">  <FaInstagram /></a>
     </motion.div>

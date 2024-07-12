@@ -6,7 +6,7 @@ import project4 from "../assets/projects/project-4.jpg";
 export const HERO_CONTENT = `I am a passionate back end developer with a knack for crafting robust and scalable web applications.  I have honed my skills in  back-end technologies like Node.js, MySQL, and MongoDB, as well as learning front-end technologies like React and Next.js . My goal is to become a full stack devloper and leverage my expertise to create innovative solutions that drive business growth and deliver good user experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile back end developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Node.js, MySQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy playing video games, exploring new technologies, and contributing to open-source projects.`;
-
+/*
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
@@ -37,14 +37,14 @@ export const EXPERIENCES = [
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
   },
 ];
-
+*/
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Online Exam Portal",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional exam taking website with features like Selective candidates can give the exam , Automated Grading , Remote Monitoring",
+    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB", "Yarn"],
   },
   {
     title: "Task Management App",

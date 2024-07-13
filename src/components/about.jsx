@@ -2,6 +2,7 @@ import aboutimg from"../assets/about.png";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 import pdf from"../assets/Resume.pdf";
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 
 const about = () => {

@@ -71,6 +71,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "School Bazar , Midnapore , Paschim Medinipur , West Bengal, India , Pin:-721101 ",
-  phoneNo: "+91 7583902681 ",
-  email: "nayanbera9@gmail.com",
+  email: "nayanberaofficial@gmail.com",
 };
